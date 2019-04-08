@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "About"
+    url: http://personal.unizar.es/pbeltran/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Etapas
+    children:
+      - title: "Infantil"
+        url: /tags/
+      - title: "Primaria"
+        url: /docs/structure/
+      - title: "Secundaria"
+        url: /docs/installation/
+      - title: "Bachillerato"
+        url: /docs/upgrading/
+      - title: "Adultos"
+        url: /docs/upgrading/
