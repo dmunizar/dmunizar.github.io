@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pablo Beltrán-Pellicer"
+  name             : "dmunizar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Profesor de matemáticas."
+  bio              : "dmunizar"
   location         : "Zaragoza, España"
   email            :
   links:
